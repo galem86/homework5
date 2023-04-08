@@ -73,7 +73,7 @@ public class Main {
         System.out.println("Потребуется дней:" + days + "срок доставки");
     }
         System.out.println("Задача5");
-    int monthNumber = 13;
+    int monthNumber = 14;
         switch(monthNumber)
 
     {
